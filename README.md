@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm in the Girls Who Code club, where we're working on a big project creating our official 2025-26 club website. I'm personally learning HTML to help build it. A fun fact about me is that I used to be a total dog person, but my mom surprised us with a kitten, and now I'm obsessed with cats!
+I'm a junior at UNCG and I'm in the Girls Who Code club, where we're working on a big project creating our official 2025-26 club website. I'm personally learning HTML to help build it. A fun fact about me is that I used to be a total dog person, but my mom surprised us with a kitten, and now I'm obsessed with cats!
 
 
 ## 🌐 Socials:
